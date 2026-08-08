@@ -1,42 +1,57 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madhushka-T&label=Profile%20Views&color=0e75b6&style=flat" />
+
+<img src="https://komarev.com/ghpvc/?username=Madhushka-T&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </p>
 
 <table align="center" width="100%" cellpadding="0" cellspacing="0">
-  <tr bgcolor="#0d1117">
-    <td align="center" style="padding:50px 20px;border:2px solid #30363d;border-radius:12px;">
-      <code style="color:#58a6ff;font-size:14px;letter-spacing:4px;">
-        // MACHINE LEARNING • DATA SCIENCE • AI SYSTEMS
-      </code>
-      <h1 align="center">SAI RANGA MADHUSHKAI TUMMALA</h1>
-    </td>
-  </tr>
+
+<tr bgcolor="#0d1117">
+
+<td align="center" style="padding:50px 20px;border:2px solid #30363d;border-radius:12px;">
+
+<code style="color:#58a6ff;font-size:14px;letter-spacing:4px;">// MACHINE LEARNING • DATA SCIENCE • AI SYSTEMS
+</code>
+
+<h1 align="center">
+Sai Ranga Madhushka Tummala
+</h1>
+
+</td>
+
+</tr>
+
 </table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Data+Scientist;Deep+Learning+Researcher;Computer+Vision+%26+NLP+Developer;Building+Intelligent+AI+Solutions" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Data+Scientist;Deep+Learning+Researcher;Computer+Vision+%26+NLP+Developer;Building+Intelligent+AI+Solutions" />
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/Madhushka-T">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://ssrn.com/abstract=6219653">
-    <img src="https://img.shields.io/badge/SSRN-Research_Paper-1C3C3A?style=for-the-badge&logo=google-scholar&logoColor=39FF14"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<a href="https://www.linkedin.com/in/madhushka-tummala-52808228b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+
+<a href="mailto:madhushkatummala18@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-# ⚡ AI & Data Science Profile
+# ⚡ AI Engineering Profile
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-    
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🎯 Core Specializations
 
@@ -50,8 +65,9 @@
 
 • Customer Segmentation & Recommendation Engines
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+
+<td width="50%" valign="top">
 
 ### 🌱 Current Focus
 
@@ -64,149 +80,253 @@
 • Advanced Computer Vision Applications
 
 • MLOps & Model Deployment
+</td>
 
-    </td>
-  </tr>
+</tr>
+
 </table>
+
+
 
 ---
 
-# 🏆 Highlights & Featured Research
+# 🏆 Highlights & Milestones
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
 
-### 📄 Published Research Preprint
+<td width="50%" valign="top">
+
+### 🥈 AiroThon 2025
+
+**National Agentic AI Hackathon Runner-Up**
+
+Built **FinBot Connect**, an AI-powered BFSI assistant utilizing:
+
+- Retrieval-Augmented Generation (RAG)
+- Enterprise Knowledge Retrieval
+- Context-Aware Financial Assistance
+- Secure AI Workflows
+
+📍 Gurugram, India
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📄 Research Preprint
 
 **FinBot Connect: A Secure Retrieval-Augmented Generation Framework for Banking Assistants**
 
 Published as an SSRN Research Preprint (2026)
 
-👨‍💻 **Co-Author:** Sai Ranga Madhushka Tummala
+👨‍💻 Authors:
 
-🔗 [View Preprint on SSRN](https://ssrn.com/abstract=6219653)
+- Sai Ranga Madhushka Tummala
+- Pavan Kumar Dirisala
 
-    </td>
-    <td width="50%" valign="top">
+🔗 [View Preprint](https://ssrn.com/abstract=6219653)
 
-### 🚀 Key Technical Focus
+</td>
 
-• **7 Core ML/DL Repositories**
+</tr>
 
-• Specialist in End-to-End ML Pipeline Architecture
+<tr>
 
-• Applied AI across Healthcare, Finance, E-commerce, and HR domains
+<td width="50%" valign="top">
 
-• Expertise in PyTorch, TensorFlow, and Scikit-Learn
+### 🎓 Education
 
-    </td>
-  </tr>
+**B.Tech – Computer Science & Engineering**
+
+Specialization:
+
+Artificial Intelligence & Intelligent Process Automation
+
+🏛️ KL University
+
+📅 2022 – 2026
+
+📈 CGPA: **9.48 / 10**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Quick Snapshot
+
+- AI Engineer
+- Machine Learning Engineer
+- Deep Learning Engineer
+- AWS Certified Cloud Practitioner
+- Salesforce Certified AI Associate
+- Red Hat Certified Application Developer
+- ServiceNow Certified System Administrator (CSA)
+- ServiceNow Certified Application Developer (CAD)
+- 6+ AI & ML Projects
+
+</td>
+
+</tr>
 </table>
 
----
-
-# 📂 Highlighted Repositories & Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🧠 [CNN-Based Brain Tumor MRI Classification](https://github.com/Madhushka-T/CNN-Based-Brain-Tumor-MRI-Image_Classification)
-Deep learning model utilizing Convolutional Neural Networks (CNNs) for precise detection and classification of brain tumors from medical MRI imagery.
-
-    </td>
-    <td width="50%" valign="top">
-
-### 📄 [AI-Powered Resume Screener](https://github.com/Madhushka-T/AI-Powered-Resume-Screener)
-NLP-driven automated resume ranking and screening tool built to streamline HR talent acquisition using semantic analysis.
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 💳 [AI Credit Card Fraud Detection](https://github.com/Madhushka-T/AI-Powered-Credit-Card-Fraud-Detection-)
-Machine learning framework designed for real-time anomaly detection and classification of fraudulent financial transactions.
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🛒 [E-Commerce Customer Segmentation](https://github.com/Madhushka-T/AI-Powered-Customer-segmentation-and-production-recommendation-for-E-Commerce)
-Unsupervised learning and recommendation system built to segment customer behavior and predict product suggestions.
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 💬 [IMDB Sentiment Classifier](https://github.com/Madhushka-T/imdb-sentiment-classifier)
-Natural Language Processing model built for automated text classification and sentiment prediction on movie reviews.
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🔢 [Digit Recognition System](https://github.com/Madhushka-T/Digit-Recognition-)
-Computer vision digit classifier implemented using deep learning for handwritten digit extraction and identification.
-
-    </td>
-  </tr>
-</table>
 
 ---
 
 # 💻 Technical Ecosystem
 
-## 🤖 Machine Learning, Deep Learning & AI
+
+## 🧪 Deep Learning, Mathematics & Foundations
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-FF1493?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-FFA500?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-007ACC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep_Learning-FF1493?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🧪 Data Science & Scientific Computing
+## 🛠️ Backend Systems & Infrastructure
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,django,fastapi,docker,mysql,git" />
+
 </p>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/API_Development-009688?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL_Databases-4479A1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud_Deployment-2496ED?style=for-the-badge"/>
+
+</p>
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhushka-T&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=Madhushka-T&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhushka-T&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhushka-T&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=Madhushka-T&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhushka-T&layout=compact&theme=tokyonight" width="48%"/>
+
 </p>
 
 ---
+
+# 📜 Certifications
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<img src="https://miro.medium.com/v2/resize:fit:510/1*32B45ONhybfKU8_ke3dLtQ.jpeg" width="60"/>
+
+### AWS Cloud Practitioner
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968914.png" width="60"/>
+
+### Salesforce AI Associate
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://www.svgrepo.com/show/354273/redhat-icon.svg" width="60"/>
+
+### Red Hat EX183
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="60"/>
+
+
+### Linguaskill B2
+
+<td align="center" width="33%">
+
+<img src="[https://www.svgrepo.com/show/354273/redhat-icon.svg](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fservicenow-new%2Fbadge%2Fservicenow-certified-system-administrator-csa&ved=0CBYQjRxqFwoTCLiyk9OqkZYDFQAAAAAdAAAAABA4&opi=89978449)" width="60"/>
+
+### ServiceNow Certified System Administrator (CSA)
+
+</td>
+</td>
+<td align="center" width="33%">
+
+<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fservicenow-new%2Fbadge%2Fservicenow-certified-system-administrator-csa&ved=0CBYQjRxqFwoTCODJ37GqkZYDFQAAAAAdAAAAABA4&opi=89978449" width="60"/>
+
+### ServiceNow Certified Application Developer (CAD)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="60"/>
+
+### NPTEL Problem Solving in C
+
+</td>
+
+
+
+</td>
+
+
+</tr>
+</table>
+
+---
+
 
 # 🤝 Open To
 
-* Machine Learning Engineer Roles
-* Data Science Opportunities
-* AI Research & Open Source Collaborations
-* Computer Vision & NLP Application Projects
+* AI Engineer Roles
+* Generative AI Engineer Roles
+* Agentic AI Development
+* Research Collaborations
+* Open Source Contributions
+* AI Hackathons & Competitions
 
 ---
 
 <p align="center">
 
-### 🚀 Transforming complex data into actionable artificial intelligence.
+### 🚀 Building intelligent systems that bridge research and production.
 
 </p>
