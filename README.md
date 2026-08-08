@@ -215,22 +215,17 @@ Artificial Intelligence & Intelligent Process Automation
 <img src="https://img.shields.io/badge/Cloud_Deployment-2496ED?style=for-the-badge"/>
 
 </p>
----
 
-# 📊 GitHub Analytics
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhushka-T&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Madhushka-T&theme=tokyonight" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Madhushka-T&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhushka-T&layout=compact&theme=tokyonight" width="48%"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhushka-T&theme=tokyonight" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Madhushka-T&theme=tokyonight" width="45%"/>
 </p>
 
 ---
@@ -317,8 +312,8 @@ Artificial Intelligence & Intelligent Process Automation
 # 🤝 Open To
 
 * AI Engineer Roles
-* Generative AI Engineer Roles
-* Agentic AI Development
+* Machine Learning Engineer Roles
+* AI Systems Development
 * Research Collaborations
 * Open Source Contributions
 * AI Hackathons & Competitions
