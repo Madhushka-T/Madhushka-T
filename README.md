@@ -277,7 +277,7 @@ Artificial Intelligence & Intelligent Process Automation
 
 <td align="center" width="33%">
 
-<img src="[https://www.svgrepo.com/show/354273/redhat-icon.svg](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fservicenow-new%2Fbadge%2Fservicenow-certified-system-administrator-csa&ved=0CBYQjRxqFwoTCLiyk9OqkZYDFQAAAAAdAAAAABA4&opi=89978449)" width="60"/>
+<img src="https://images.credly.com/images/cf2fd311-58c5-404e-b2aa-234b2ef7f994/Credential_Badge_-_Certified_System_Administrator.png" width="60"/>
 
 ### ServiceNow Certified System Administrator (CSA)
 
@@ -285,7 +285,7 @@ Artificial Intelligence & Intelligent Process Automation
 </td>
 <td align="center" width="33%">
 
-<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.credly.com%2Forg%2Fservicenow-new%2Fbadge%2Fservicenow-certified-system-administrator-csa&ved=0CBYQjRxqFwoTCODJ37GqkZYDFQAAAAAdAAAAABA4&opi=89978449" width="60"/>
+<img src="https://images.credly.com/images/4291c91d-0de2-4294-93aa-a5e986d4368f/twitter_thumb_201604_Credential_Badge_-_Certified_Application_Developer.png" width="60"/>
 
 ### ServiceNow Certified Application Developer (CAD)
 
